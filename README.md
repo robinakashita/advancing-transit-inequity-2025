@@ -177,7 +177,7 @@ financial conditions contribute to, or result from, the transit inequities obser
 
 ![Seattle, WA](figures/Seattle_WA.png)
 
-- **Summary Statistics**
+- **Summary Statistics by Region**
 
 ![Summary Statistics](figures/Summary_Statistics.png)
 
