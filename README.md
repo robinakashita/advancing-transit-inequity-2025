@@ -1,4 +1,4 @@
-# Advancing Transit Equity Through Geospatial and Statistical Analysis (MIT 8th Annual Policy Hackathon)
+# Advancing Transit Equity for Boston’s Underserved Youth (MIT 8th Annual Policy Hackathon)
 
 Despite significant progress made, transit access in Greater Boston remains uneven, with communities like Chelsea, Roxbury, Dorchester, and Lawrence facing disproportionate access and delays. Such barriers especially impact BIPOC youth who depend on transit for access to educational and enrichment
 opportunities, reducing social mobility and perpetuating cycles of exclusion. In response to this problem, I propose a latitudinal analysis that draws lessons from proven methods in comparable cities like New York, D.C., and Seattle. This repository contains a Python-based statistical and QGIS geospatial analysis of transit inequity across four major U.S. cities: Boston, Washington DC, New York City, and Seattle. Using U.S. Census block-group datasets from 2019 to 2023 and custom demographic GeoPackages that were built for each city, the notebook quantifies poverty levels, extreme commute burden, and the statistical relationships between these variables.
