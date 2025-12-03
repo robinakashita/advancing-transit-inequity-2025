@@ -157,6 +157,24 @@ whether transit agencies in Washington, D.C., and New York City differ financial
 and Seattle. Examining operating costs, revenue structures, and fare policies may help reveal whether
 financial conditions contribute to, or result from, the transit inequities observed.
 
-## 6. Figures
+## 6. Figures 
+(Red - proportion of individuals whose household income is below 100% of the federal poverty
+threshold
+Blue - % of workers whose total commute time is 60 minutes or longer)
 
-- 
+- **Boston, MA**
+  
+![Boston, MA](figures/Boston_MA.png)
+
+- **New York City, NY**
+
+![New York City, NY](figures/NYC_NY.png)
+
+
+- **Washington D.C.**
+
+![Washington D.C.](figures/Washington_D.C.png)
+
+- **Seattle, WA**
+
+![Seattle, WA](figures/Seattle_WA.png)
