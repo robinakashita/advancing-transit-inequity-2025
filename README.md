@@ -179,4 +179,12 @@ financial conditions contribute to, or result from, the transit inequities obser
 
 ![Seattle, WA](figures/Seattle_WA.png)
 
+- **Summary Statistics by Region**
+  
+![Summary Statistics by Region](figures/summ_stats.png)
+
+- **Correlation by Region**
+  
+![Correlation by Region](figures/corr.png)
+
  I would like to thank my teammates, Andrew Park, Jinie Chon, Marcelo Green, and Shivani Sharma, for their support throughout this project.
